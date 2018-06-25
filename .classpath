@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="GameBloodofTheZombies/lib/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/jars/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slick-util.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/dependencies/eventbus-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/dependencies/jglfont-core-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/dependencies/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/nifty-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/nifty-default-controls-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/nifty-lwjgl-renderer-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/nifty-openal-soundsystem-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/nifty/nifty-style-black-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/jars/PNGDecoder.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
